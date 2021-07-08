@@ -1,2 +1,2 @@
 # towards-java
-Programs created while learning Java. 
+Programs created whilst learning Java. 
