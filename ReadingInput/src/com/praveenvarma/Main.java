@@ -19,7 +19,6 @@ public class Main {
 //        System.out.println("Hello " + name);
 //        System.out.println("You are " + age + " years old!");
 
-
         int numCount = 0;
         int sum = 0;
         while (numCount < 10) {
